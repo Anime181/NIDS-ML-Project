@@ -12,7 +12,7 @@ Builds a machine learning-based NIDS using IBM AutoAI.
 - Get prediction: normal / anomaly
 
 # Folder Structure
-- notebooks/: AutoAI notebooks
+- notebook/: The jupyter notebook
 - scripts/: Client scripts
 - data/: Sample dataset
 
